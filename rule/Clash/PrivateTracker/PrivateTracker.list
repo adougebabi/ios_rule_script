@@ -288,11 +288,10 @@ DOMAIN-SUFFIX,icc2022.de
 DOMAIN-SUFFIX,icc2022.xyz
 DOMAIN-SUFFIX,audiences.me
 DOMAIN-SUFFIX,cinefiles.info
-DOMAIN-SUFFIX,hdkylin.top
-DOMAIN-SUFFIX,hdkyl.in
 DOMAIN-SUFFIX,ptchina.org
-DOMAIN-SUFFIX,crabpt.vip
+DOMAIN,crabpt.vip
 DOMAIN-SUFFIX,rousi.zip
+DOMAIN-KEYWORD,hdkyl
 DOMAIN-KEYWORD,announce
 DOMAIN-KEYWORD,chdbits
 DOMAIN-KEYWORD,m-team
